@@ -97,7 +97,7 @@ export default function App() {
                     {renderButton('=', handleEqual, styles.equalButton, styles.equalButtonText)}
                 </View>
             </View>
-            <Text style={styles.signature}>Cal by Suraj</Text>
+            <Text style={styles.signature}>Cal by Omsai</Text>
         </View>
     );
 }
