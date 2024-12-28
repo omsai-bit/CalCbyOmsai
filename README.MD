@@ -1,7 +1,7 @@
 # React Native Calculator  
 **Calc by Omsai**
 download app:
-https://expo.dev/accounts/suraj24/projects/cal-by-suraj/builds/0233bc85-58dc-4869-b259-715a718ee74b 
+https://expo.dev/accounts/omsai19/projects/calcbyomsai/builds/aebca161-3b5a-44bb-9355-de9038ba3915
 A React Native calculator with light and dark theme toggling.
 
 ### Screens
